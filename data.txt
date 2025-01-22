@@ -1,0 +1,23 @@
+1. SKATE PARK
+	- Immagine: img/1.png
+	- Data: 01-07-2024
+
+2. PASSEGGIATA
+	- Immagine: img/2.png
+	- Data: 16-07-2024
+
+3. ALPI
+	- Immagine: img/3.png
+	- Data: 01-07-2024
+
+4. SAGRA
+	- Immagine: img/4.png
+	- Data: 21-08-2024
+
+5. WATERGUN
+	- Immagine: img/5.png
+	- Data: 23-08-2024
+
+6. RIVIERA
+	- Immagine: img/6.png
+	- Data: 30-08-2024
